@@ -41,7 +41,7 @@ Do the following with above problem.
 */
 
 // - Write a Function Declaration
-
+function addone(number)
 // - Write a Function Expression
 
 // - Write an Arrow Function without curly brackets(if possible)
